@@ -1,6 +1,8 @@
 agndiag
 =======
 
+![CI](https://github.com/nudomarinero/agndiag/actions/workflows/main.yml/badge.svg)
+
 Software to apply the AGN diagnostic diagrams to emission line data. 
 
 Currently there are three diagnostic diagrams implemented from the paper of Sabater et al. 2012:
